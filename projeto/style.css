@@ -1,0 +1,72 @@
+html{
+    
+    flex-wrap: wrap;
+     background-image: url(img/333.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-color: m rgb(0,12,130 blue);
+    height: 100%;
+    
+    
+
+}
+
+      
+
+.bemvindo{ 
+    
+    font-size: 26px ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    padding: 10px;
+    border-radius: 10px;
+   
+    background-color:rgb(246, 158, 16); 
+    
+
+
+} 
+.letras1{  
+ 
+    margin:0px 20px 0px 400px;
+       text-decoration:underline;
+}
+
+.contato12{
+    background-image: url( img/insta.jpg); 
+ margin: 0px 20px 0px 20px;
+
+} 
+ 
+.fot{
+    height: 500px;
+    width: 950px;
+    border-radius: 20px;
+    overflow: hidden;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    transform: translate(-50%,-50%);
+    box-shadow: 10px 10px 5px 0px rgb(#000);
+
+
+}
+ 
+.but{
+    background-color: orange;
+    margin: 10px 10px 10px 10px;
+    border-radius: 20px;
+    width: 200px;
+    padding: 10px;
+    cursor: pointer;
+}
+.map{
+    
+    background-color: orange;
+    margin: 10px 10px 10px 10px;
+    border-radius: 20px;
+    width: 200px;
+    padding: 10px;
+    cursor: pointer;
+
+}
+

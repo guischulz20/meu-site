@@ -1,0 +1,19 @@
+@media screen and (max-width: 1024px) {
+
+  p{
+    font-size: 20px;
+  }
+
+.letras1{
+    font-size: 20px;
+    text-align: center;
+ }
+.bemvindo{
+text-align: center;
+padding: 1px;
+height: 150px;
+
+
+}
+}
+
